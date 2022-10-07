@@ -1,7 +1,7 @@
 
 
-!in working process!
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=!In%20working%20process!&fontSize=90)
 ![Bderya's GitHub stats](https://github-readme-stats.vercel.app/api?username=bderya&show_icons=true&theme=gotham)
 
 
