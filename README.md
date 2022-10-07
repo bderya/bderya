@@ -1,6 +1,9 @@
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+!in working process!
+
+![Bderya's GitHub stats](https://github-readme-stats.vercel.app/api?username=bderya&show_icons=true&theme=gotham)
+
 
 
 
